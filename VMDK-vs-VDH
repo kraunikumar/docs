@@ -1,1 +1,23 @@
 
+File Formats:
+
+OVF: ( Open Virtualization Format )
+  - An OVF is usually made up of several files.
+OVA: ( Open Virtualization Appliance )
+  - An OVA is a single file that consists of a TAR archive of all of the above OVF files (for VMware this is usally the .ovf and .vmdk files).
+
+Both the OVF and OVA formats typically comprise of four files;
+
+The descriptor file (.ovf) – An  XML file which describes the packaged virtual machine. The file also has metadata included such as the name, hardware requirements, references to the other files in the package and descriptions.
+Virtual Machine Disk Files (.vmdk) – VMware products utilise a variant of the VMDK format that is designed for distribution and compressed.
+A Manifest File (.mf) – Used for integrity and contains the SHA1 digest of all files in the package (except for the .mf). This file is optional and not required.
+A Certificate File (.cert) – You may also have a .cert file with the .mf file for authenticity to allow the package author to be verified. This file is optional and not required.
+
+Volume Formats
+VDI :
+  - Native format of VM box
+VMDK : ( VMware ) 
+  - VMDK has an additional capability of splitting the storage file into files less than 2 GB each, which is useful if your file system has a small file size limit
+VHD :  ( Hyper-V )
+  - VHD is the native format of Microsoft Virtual PC. This is a format that is popular with Microsoft products.
+HD
