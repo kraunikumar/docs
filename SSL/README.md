@@ -3,10 +3,10 @@
 ### ROOT Certificate ( Public certificate )
 
 ### SSL Process
-[SSL-explination](https://github.com/kraunikumar/docs/blob/master/SSL/SSL-explination.PNG)
+(https://github.com/kraunikumar/docs/blob/master/SSL/SSL-explination.PNG)
 
 ### SSL Contents
-[SSL-contents](https://github.com/kraunikumar/docs/blob/master/SSL/SSL-FOrmat.PNG)
+(https://github.com/kraunikumar/docs/blob/master/SSL/SSL-FOrmat.PNG)
 
 ### PKI Architecture
-[PKI archi](https://github.com/kraunikumar/docs/blob/master/SSL/PKI.PNG)
+(https://github.com/kraunikumar/docs/blob/master/SSL/PKI.PNG)
