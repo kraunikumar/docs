@@ -3,7 +3,7 @@
 ### ROOT Certificate ( Public certificate )
 
 ### SSL Process
-!(https://github.com/kraunikumar/docs/blob/master/SSL/SSL-explination.PNG)
+![hello](https://github.com/kraunikumar/docs/blob/master/SSL/SSL-explination.PNG)
 
 ### SSL Contents
 (https://github.com/kraunikumar/docs/blob/master/SSL/SSL-FOrmat.PNG)
